@@ -1,7 +1,7 @@
 # ESP32_SK6812
 ESP32 library for SK6812 based RGBW (4-channel) LEDs
 
-_This repository is an adaptation of [Electry/Arduino_SK6812](https://github.com/Electry/Arduino_SK6812) library_
+_ESP32 version of [Electry/Arduino_SK6812](https://github.com/Electry/Arduino_SK6812) library_
 
 ## Usage
  1. Download repository as .zip file
